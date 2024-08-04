@@ -1,0 +1,341 @@
+Hungama 
+#EXTINF:-1 group-title="FOR KIDS", Hungama TV
+http://xtv.ooo:8080/live/Galaxy.2/4321/150480.m3u8
+
+Disney 
+#EXTINF:-1 group-title="FOR KIDS", DISNEY
+http://xtv.ooo:8080/live/Galaxy.2/4321/167551.m3u8
+
+Sony Yay
+#EXTINF:-1 group-title="FOR KIDS", SONY YAY
+http://b1g.uk/live/1106/1106/407105.ts
+
+CN
+#EXTINF:-1 group-title="FOR KIDS", Cartoon Network
+http://tv.cloudcdn.me/live.ts?channelId=244&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+Pogo 
+#EXTINF:-1 group-title="FOR KIDS", POGO
+http://172.20.21.22/live/skyfeed1019/index.m3u8
+
+pogo
+#EXTINF:-1 group-title="FOR KIDS", Pogo
+http://tv.cloudcdn.me/live.ts?channelId=256&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+wow kid
+#EXTINF:-1  group-title="FOR KIDS", Wow Kid
+http://tv.cloudcdn.me/live.ts?channelId=91169&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+Nick Hindi 
+#EXTINF:-1 group-title="FOR KIDS", Nickelodeon
+http://xtv.ooo:8080/live/Galaxy.2/4321/76722.m3u8
+
+Nick Bangla
+#EXTINF:-1 group-title="FOR KIDS", Nickelodeon Bangla 
+http://172.20.21.22/live/funtime110/index.m3u8
+
+Discovery Kids
+#EXTINF:-1   group-title="FOR KIDS", Discovery Kids
+https://port.yuvraj49.in/ss/index.m3u8?id=208
+
+Sonic 
+#EXTINF:-1   group-title="FOR KIDS", Nickelodeon Sonic
+http://tv.cloudcdn.me/live.ts?channelId=40476&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+Tom & Jerry 
+#EXTINF:-1  group-title="FOR KIDS", Tom and Jerry
+http://xtv.ooo:8080/live/Galaxy.2/4321/347942.m3u8
+
+#EXTINF:-1   group-title="FOR KIDS", Oggy and the Cockroaches
+http://xtv.ooo:8080/live/Galaxy.2/4321/308282.m3u8
+
+#EXTINF:-1  group-title="FOR KIDS", Motu Patlu
+http://filex.tv:8080/live/zubair168188/pak023/141903.m3u8
+
+#EXTINF:-1  group-title="FOR KIDS", Masha and the Bear
+http://xtv.ooo:8080/live/Galaxy.2/4321/301506.m3u8
+
+#EXTINF:-1  group-title="FOR KIDS", Chhota Bheem
+http://xtv.ooo:8080/live/Galaxy.2/4321/315401.m3u8
+
+#EXTINF:-1   group-title="FOR KIDS", Chacha Bhatija
+http://xtv.ooo:8080/live/Galaxy.2/4321/311774.m3u8
+
+#EXTINF:-1   group-title="FOR KIDS", Vir The Robot Boy
+http://xtv.ooo:8080/live/Galaxy.2/4321/314754.m3u8
+
+#EXTINF:-1  group-title="FOR KIDS", Mr. Bean
+http://xtv.ooo:8080/live/Galaxy.2/4321/350316.m3u8
+
+
+bangla Channel 
+
+#EXTINF:-1  group-title=" Islamic TV", Makkah TV
+http://172.20.21.22/live/skyfeed1022/index.m3u8
+
+#EXTINF:-1  group-title=" Islamic TV", QURAN MUJEED
+http://tv.cloudcdn.me/live.ts?channelId=123908&uid=6154&deviceMac=00:1A:79:51:31:21
+
+#EXTINF:-1  group-title=" Islamic TV", QURAN MUJEED
+http://xtv.ooo:8080/live/Galaxy.2/4321/251592.m3u8
+
+#EXTINF:-1   group-title=" Islamic TV", QURAN MUJEED
+http://xtv.ooo:8080/live/Galaxy.2/4321/251594.m3u8
+
+#EXTINF:-1  group-title="Bangla", Asian
+http://tv.cloudcdn.me/live.ts?channelId=80&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", ATN Bangla
+http://tv.cloudcdn.me/live.ts?channelId=81&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", ATN Bangla News
+http://tv.cloudcdn.me/live.ts?channelId=83&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Bangla Vision
+http://tv.cloudcdn.me/live.ts?channelId=84&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", 
+http://tv.cloudcdn.me/live.ts?channelId=86&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Channel 24
+http://tv.cloudcdn.me/live.ts?channelId=87&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Channel 9
+http://tv.cloudcdn.me/live.ts?channelId=88&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Channel I
+http://tv.cloudcdn.me/live.ts?channelId=89&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Colours Bangla
+http://tv.cloudcdn.me/live.ts?channelId=92&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Dbc News
+http://tv.cloudcdn.me/live.ts?channelId=29197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Duronto
+http://tv.cloudcdn.me/live.ts?channelId=74553&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Ekattor TV
+http://tv.cloudcdn.me/live.ts?channelId=95&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Ekushey TV
+http://tv.cloudcdn.me/live.ts?channelId=96&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Independent TV
+http://tv.cloudcdn.me/live.ts?channelId=99&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Jamuna TV
+http://tv.cloudcdn.me/live.ts?channelId=100&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Mohona TV
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", My TV
+http://tv.cloudcdn.me/live.ts?channelId=106&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Masranga TV
+http://tv.cloudcdn.me/live.ts?channelId=101&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", News 24
+http://tv.cloudcdn.me/live.ts?channelId=107&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Nexus TV
+http://tv.cloudcdn.me/live.ts?channelId=90300&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", NTV
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Somoy TV
+http://tv.cloudcdn.me/live.ts?channelId=115&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Movie Bangla 
+http://tv.cloudcdn.me/live.ts?channelId=104&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", SA TV
+http://tv.cloudcdn.me/live.ts?channelId=114&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Star Jalsha
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Zee Bangla
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Sony Aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Star Jalsa Movies
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Zee Bangla Cinema 
+http://tv.cloudcdn.me/live.ts?channelId=119&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Discovery Bangla
+http://tv.cloudcdn.me/live.ts?channelId=44153&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1   group-title="Bangla", Sun Bangla
+https://port.yuvraj49.in/ss/index.m3u8?id=3753
+
+#EXTINF:-1  group-title="Bangla", Rupashi Bangla
+http://tv.cloudcdn.me/live.ts?channelId=113&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Enter 10 Bangla
+http://tv.cloudcdn.me/live.ts?channelId=96&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Bangla", Akash Aath
+http://tv.cloudcdn.me/live.ts?channelId=79&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+
+
+Hindi Entertainment 
+
+#EXTINF:-1  group-title="Hindi Entertainment", Sony TV
+http://tv.cloudcdn.me/live.ts?channelId=193&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", Sony Sab
+http://tv.cloudcdn.me/live.ts?channelId=191&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", Star Plus 
+http://tv.cloudcdn.me/live.ts?channelId=12357&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", Colours 
+http://tv.cloudcdn.me/live.ts?channelId=160&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", & TV
+http://tv.cloudcdn.me/live.ts?channelId=140&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", Animal Plannet
+http://tv.cloudcdn.me/live.ts?channelId=151&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", Discovery Hindi 
+http://tv.cloudcdn.me/live.ts?channelId=164&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", Nat Geo Wild
+http://tv.cloudcdn.me/live.ts?channelId=177&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Hindi Entertainment", Nat Geographic 
+http://tv.cloudcdn.me/live.ts?channelId=125057&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+
+
+
+
+
+Hindi Movie 
+
+#EXTINF:-1  group-title="Movie Channel's", & Pictures
+http://tv.cloudcdn.me/live.ts?channelId=132225&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", & Pictures HD
+http://tv.cloudcdn.me/live.ts?channelId=139&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Sony Max
+http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Sony Max HD
+http://tv.cloudcdn.me/live.ts?channelId=184&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Zee Cinema 
+http://tv.cloudcdn.me/live.ts?channelId=214&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Zee Cinema HD
+http://tv.cloudcdn.me/live.ts?channelId=213&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Star Gold HD
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Star Gold 2
+http://tv.cloudcdn.me/live.ts?channelId=33165&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Star Gold Thrills
+http://xtv.ooo:8080/live/Galaxy.2/4321/66186.m3u8
+
+#EXTINF:-1  group-title="Movie Channel's", Star Gold Romance 
+http://tv.cloudcdn.me/live.ts?channelId=128485&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Star Gold Select
+http://tv.cloudcdn.me/live.ts?channelId=197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Colours Cineflex 
+http://tv.cloudcdn.me/live.ts?channelId=156&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Colours Cineflex Superhit
+http://tv.cloudcdn.me/live.ts?channelId=62413&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", B4U Movie
+http://tv.cloudcdn.me/live.ts?channelId=152&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", & Flix
+http://tv.cloudcdn.me/live.ts?channelId=49859&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Star Movies
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Movie Channel's", Star Movies Select 
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+
+
+
+Music
+
+#EXTINF:-1  group-title="Music", Gaan Bangla
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", Sangeet Bangla
+http://tv.cloudcdn.me/live.ts?channelId=38893&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", Daam Music
+http://tv.cloudcdn.me/live.ts?channelId=94&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", 9X Jalwa
+http://tv.cloudcdn.me/live.ts?channelId=142&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", 9XM
+http://tv.cloudcdn.me/live.ts?channelId=143&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", Zoom
+http://tv.cloudcdn.me/live.ts?channelId=121&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", Zing
+http://tv.cloudcdn.me/live.ts?channelId=219&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", Music India
+http://tv.cloudcdn.me/live.ts?channelId=175&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", Masti
+http://tv.cloudcdn.me/live.ts?channelId=172&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", MTV Hits
+http://tv.cloudcdn.me/live.ts?channelId=174&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+#EXTINF:-1  group-title="Music", B4U Music 
+http://tv.cloudcdn.me/live.ts?channelId=153&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+
+
+
+Sports Channel 
+
+#EXTINF:-1 group-title="Sports TV", T Sports HD
+http://172.20.21.22/live/skyfeed1005/index.m3u8
+
+#EXTINF:-1 group-title="Sports TV", Start Sports 1
+http://b1g.uk/live/1106/1106/260998.ts
+
+#EXTINF:-1 group-title="Sports TV", Star Sports 2
+http://b1g.uk/live/1106/1106/260999.ts
+
+#EXTINF:-1 group-title="Sports TV", A Sports
+http://b1g.uk/live/1106/1106/260990.ts
+
+#EXTINF:-1 group-title="Sports TV", Sports18
+ht tp://172.20.21.22/live/skyfeed1004/index.m3u8
+
+
+
+
+
+
+
+
+
+
